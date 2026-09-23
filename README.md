@@ -67,6 +67,8 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 ## MODEL GRAPH
 <img width="1600" height="1320" alt="WhatsApp Image 2026-09-23 at 12 48 10 PM" src="https://github.com/user-attachments/assets/e5ba4f92-b3a9-40ea-b3d8-0098ed045cbe" />
 
-**Practical**
+Result
+
+Thus the DSB-SC-AM Modulation and Demodulation is generated.
 
 ---
